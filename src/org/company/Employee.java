@@ -27,8 +27,8 @@ public class Employee {
 		boolean empStatus = true;
 		System.out.println("employee maritial status is"+empStatus);
 		
-		
-		
+		byte empage = 34;
+		System.out.println(empage);
 		
 	}
 
